@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SMART INDIA HACKATHON 2023</title>
+    
 </head>
 <body>
     <h1 style="text-transform: uppercase;">Agnivardhak AI/ML Based Dehazing and Desmoking</h1>
