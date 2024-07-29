@@ -1,14 +1,15 @@
-![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/FIGMA%20(%20APP%20FRONEND%20LOOK))
+![logo]()
+
 So we developed Agni-Vardhak a project that integrates Fast All in One Dehazing (FAOD-Net) and Dark Channel Prior Algorithms which increases visibility of firefighters during structural fires hence facilitating rescue and assessment efforts and saving lives.
 
 We employed shortest path algorithms for saving time during critical situations.
 
 📌 How it works ?
-
+![logo]()
 Agni-Vardhak revolutionizes fire response with its user-friendly platform for uploading fire-related data from our app or CCTV footage. The FAOD algorithm, it swiftly detects and responds to incidents, allowing victims to send distress signals to nearby firefighters via streamlined coordination with Google API. Additionally, the AI/ML technology analyzes smoke severity, while object detection enhances assessment accuracy. With added features like rewards, fire safety information, and QR-based donations.
 
 📌 Techstack:
-
+![logo]()
 · Python, TensorFlow, OpenCV for AI/ML development.
 
 · Google Maps API for location-based services.
