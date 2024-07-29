@@ -1,11 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Capital Heading Example</title>
+</head>
+<body>
+    <h1 style="text-transform: uppercase;">Agnivardhak AI/ML Based Dehazing and Desmoking</h1>
+</body>
+</html>
+
 **We developed Agni-Vardhak a project that integrates Fast All in One Dehazing (FAOD-Net) and Dark Channel Prior Algorithms which increases visibility of firefighters during structural fires hence facilitating rescue and assessment efforts and saving lives**.
 
 We employed shortest path algorithms for saving time during critical situations.
 ![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper.png)
 
-So we developed Agni-Vardhak a project that integrates Fast All in One Dehazing (FAOD-Net) and Dark Channel Prior Algorithms which increases visibility of firefighters during structural fires hence facilitating rescue and assessment efforts and saving lives.
 
-We employed shortest path algorithms for saving time during critical situations.
 
 **📌 How it works ?**
 ![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper%20(2).png)
