@@ -9,7 +9,7 @@ We employed shortest path algorithms for saving time during critical situations.
 Agni-Vardhak revolutionizes fire response with its user-friendly platform for uploading fire-related data from our app or CCTV footage. The FAOD algorithm, it swiftly detects and responds to incidents, allowing victims to send distress signals to nearby firefighters via streamlined coordination with Google API. Additionally, the AI/ML technology analyzes smoke severity, while object detection enhances assessment accuracy. With added features like rewards, fire safety information, and QR-based donations.
 
 📌 Techstack:
-![logo]()
+![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper%20(2).png)
 · Python, TensorFlow, OpenCV for AI/ML development.
 
 · Google Maps API for location-based services.
