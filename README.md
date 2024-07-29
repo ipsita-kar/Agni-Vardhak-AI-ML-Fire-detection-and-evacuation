@@ -1,3 +1,6 @@
+We developed Agni-Vardhak a project that integrates Fast All in One Dehazing (FAOD-Net) and Dark Channel Prior Algorithms which increases visibility of firefighters during structural fires hence facilitating rescue and assessment efforts and saving lives.
+
+We employed shortest path algorithms for saving time during critical situations.
 ![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper.png)
 
 So we developed Agni-Vardhak a project that integrates Fast All in One Dehazing (FAOD-Net) and Dark Channel Prior Algorithms which increases visibility of firefighters during structural fires hence facilitating rescue and assessment efforts and saving lives.
@@ -19,10 +22,12 @@ Agni-Vardhak revolutionizes fire response with its user-friendly platform for up
 · Figma for UI/UX design
 
 📌 Why?
-![logo]()
-Traditional fire-detection systems primarily rely on sensor-based detection techniques, which have inherent limitations in accurately and promptly detecting fires, especially in complex environments. In recent years, with the advancement of computer vision technology, video-oriented fire detection techniques, owing to their non-contact sensing, adaptability to diverse environments, and comprehensive information acquisition have emerged as a novel solution. As a powerful and flexible machine learning framework, deep learning has demonstrated significant advantages in video fire detection.
 
+Traditional fire-detection systems primarily rely on sensor-based detection techniques, which have inherent limitations in accurately and promptly detecting fires, especially in complex environments. In recent years, with the advancement of computer vision technology, video-oriented fire detection techniques, owing to their non-contact sensing, adaptability to diverse environments, and comprehensive information acquisition have emerged as a novel solution. As a powerful and flexible machine learning framework, deep learning has demonstrated significant advantages in video fire detection.
+📌 OUTPUTS
+![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper%20(3).png)
 📌 Conclusion
+
 
 We have a Ctrl+Z in our laptops to undo our mistakes , but during intense fire accidents there is no UNDO , this is just an initiative to reduce the casualties because each and every life matters.
 
