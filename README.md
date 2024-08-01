@@ -12,8 +12,6 @@
 
 We employed shortest path algorithms for saving time during critical situations.
 
-https://github.com/user-attachments/assets/6cfcb984-e673-40d8-97f5-7cfce123235f
-
 ![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper.png)
 
 
@@ -31,7 +29,8 @@ Agni-Vardhak revolutionizes fire response with its user-friendly platform for up
 · Google Cloud for hosting.
 
 · Figma for UI/UX design
-
+**VIDEO:**
+https://github.com/user-attachments/assets/6cfcb984-e673-40d8-97f5-7cfce123235f
 **📌 Why?**
 
 Traditional fire-detection systems primarily rely on sensor-based detection techniques, which have inherent limitations in accurately and promptly detecting fires, especially in complex environments. In recent years, with the advancement of computer vision technology, video-oriented fire detection techniques, owing to their non-contact sensing, adaptability to diverse environments, and comprehensive information acquisition have emerged as a novel solution. As a powerful and flexible machine learning framework, deep learning has demonstrated significant advantages in video fire detection.
