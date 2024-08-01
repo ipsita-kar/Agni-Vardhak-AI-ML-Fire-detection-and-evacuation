@@ -12,10 +12,6 @@
 
 We employed shortest path algorithms for saving time during critical situations.
 
-<video width="600" controls>
-  <source src="(https://github.com/user-attachments/assets/561cfb1b-9c34-4e02-8669-b31aadb11eab">
-  Your browser does not support the video tag.
-</video>
 ![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper.png)
 
 
