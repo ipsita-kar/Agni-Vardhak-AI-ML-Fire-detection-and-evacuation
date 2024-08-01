@@ -11,7 +11,7 @@
 **We developed Agni-Vardhak a project that integrates Fast All in One Dehazing (FAOD-Net) and Dark Channel Prior Algorithms which increases visibility of firefighters during structural fires hence facilitating rescue and assessment efforts and saving lives**.
 
 We employed shortest path algorithms for saving time during critical situations.
-![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/20230930_185940.mp4)
+https://github.com/user-attachments/assets/561cfb1b-9c34-4e02-8669-b31aadb11eab
 ![logo](https://github.com/ipsita-kar/Agni-Vardhak-AI-ML-Fire-detection-and-evacuation/blob/main/Blue%20Simple%20Keep%20Calm%20Desktop%20Wallpaper.png)
 
 
